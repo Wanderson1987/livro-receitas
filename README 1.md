@@ -9,3 +9,5 @@
 ##### Salvando modificaçõe.
 
 ## Salvando alterações no Git.
+
+* comando git push
