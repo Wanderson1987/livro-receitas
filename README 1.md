@@ -11,6 +11,9 @@
 ## Salvando alterações no Git.
 
 * comando git push */envia para repositorio remoto.
+
 * comando git pull */envia para o codigo, a linha que foi escrita.
+
 * comando git fetch */baixa o que tem no repositorio remoto, mas não mostra na linha do cod.
+
 * comando git diff */ git diff origin/master -> mostra a linha que será acrescentada, em vermelho. 
